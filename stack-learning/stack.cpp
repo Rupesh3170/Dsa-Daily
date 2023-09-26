@@ -2,9 +2,11 @@
 using namespace std;
 int main()
 {
-    cout<<"learning stack start";
-  cout<<"hello world";
+  cout<<"learning stack start"<<endl;
+  cout<<"hello duniya";
+  
 
     return 0;
+
 
 }
